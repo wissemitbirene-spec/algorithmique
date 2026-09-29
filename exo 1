@@ -1,1 +1,11 @@
-
+Algorithme Somme 
+Variables 
+     A,  B, S :  entier 
+Début 
+     Ecrire ("Donner le premier nombre :")
+Lire(A)
+     Ecrire (Donner le deuxiéme nombre :")
+Lire(B)
+S ← A + B
+   Ecrire("La somme est :", S)
+Fin 
